@@ -1,0 +1,10 @@
+com\E_BankV1\testCases\EditCustomer.class
+com\E_BankV1\pageObject\AddCustomerPage.class
+com\E_BankV1\pageObject\LoginPage.class
+com\E_BankV1\testCases\TC_AddCustomerTest_003.class
+com\E_BankV1\testCases\TC_LoginDDT_002.class
+com\E_BankV1\utilities\ReadConfig.class
+com\E_BankV1\testCases\BaseClass.class
+com\E_BankV1\utilities\XLUtils.class
+com\E_BankV1\testCases\TC_LoginTest_001.class
+com\E_BankV1\utilities\Reporting.class
